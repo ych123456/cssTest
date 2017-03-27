@@ -27,7 +27,7 @@ import org.w3c.dom.NodeList;
  */
 public class BookMark { 
     
-	//以下为定义的常量
+	//常量
 	
 	/** 替换标签时，设于标签的后面     test一下子 **/
     public static final int INSERT_AFTER = 0; 
