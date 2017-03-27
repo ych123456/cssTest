@@ -20,7 +20,7 @@ import org.w3c.dom.NodeList;
  * @author    
  * 
  * <p>Modification History:</p>
- * <p>Date       Author      Description</p>
+ * <p>Date       Author  ych    Description</p>
  * <p>------------------------------------------------------------------</p>
  * <p> </p>
  * <p>  </p>
@@ -29,7 +29,7 @@ public class BookMark {
     
 	//以下为定义的常量
 	
-	/** 替换标签时，设于标签的后面   **/
+	/** 替换标签时，设于标签的后面     test一下子 **/
     public static final int INSERT_AFTER = 0; 
     
     /** 替换标签时，设于标签的前面   **/
