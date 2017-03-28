@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ia file test
+=======
+a to ych
+>>>>>>> 24922cc744d2dffa9945e6c5451eea2fe346f40f
