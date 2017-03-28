@@ -22,8 +22,6 @@ import org.w3c.dom.NodeList;
  * <p>Modification History:</p>
  * <p>Date       Author  ych    Description</p>
  * <p>------------------------------------------------------------------</p>
- * <p> </p>
- * <p> <br/> </p>
  */
 public class BookMark { 
     
@@ -41,9 +39,11 @@ public class BookMark {
     /** docx中定义的部分常量引用  **/
     public static final String RUN_NODE_NAME = "w:r"; 
     public static final String TEXT_NODE_NAME = "w:t"; 
+    
     public static final String BOOKMARK_START_TAG = "bookmarkStart"; 
     public static final String BOOKMARK_END_TAG = "bookmarkEnd"; 
     public static final String BOOKMARK_ID_ATTR_NAME = "w:id"; 
+    
     public static final String STYLE_NODE_NAME = "w:rPr"; 
     
     /** 内部的标签定义类  **/
